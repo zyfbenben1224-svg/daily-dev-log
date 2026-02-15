@@ -1,4 +1,4 @@
 # 开发日志 - 第 14 天
-- 学习Android模块开发基础
-- 调试LSPosed模块加载逻辑
-- 整理ADB调试命令
+- 学习Android开发：网络请求
+- 调试LSPosed模块：Hook逻辑
+- 整理开发笔记：ADB命令
